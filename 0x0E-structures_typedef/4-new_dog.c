@@ -43,7 +43,7 @@ char *_strcpy(char *dest, char *src)
 
 	for (i = 0; i < len; i++)
 	{
-i		dest[i] = src[i];
+		dest[i] = src[i];
 	}
 	dest[i] = '\0';
 
